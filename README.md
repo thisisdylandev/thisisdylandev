@@ -1,5 +1,5 @@
 ### Hey there 👋
-Hey there, I'm Dylan. I'm a front end web and software developer with a keen interest in security and the jamstack. 
+Hey there, I'm Dylan. I'm a front end web and software developer with a keen interest in data and the jamstack. 
 
 Welcome to one of my various corners of the internet. ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
