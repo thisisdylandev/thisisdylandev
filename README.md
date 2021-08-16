@@ -7,7 +7,7 @@ Welcome to one of my various corners of the internet, I'm working on it.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisdylandev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-🔭 I’m currently working on doing fun things with [Hotwire](https://hotwire.dev/) and [Ionic](https://ionicframework.com/)
+🔭 I’m currently working on doing fun things with [Ionic](https://ionicframework.com/) and [Firebase](https://firebase.google.com/)
 
 🌱 I’m currently learning advanced ruby and javascript techniques
 
