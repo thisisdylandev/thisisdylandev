@@ -13,7 +13,7 @@ Welcome to one of my various corners of the internet, I'm working on it.
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: Absolute Rugby Fanatic 🏉
+⚡ Fun fact: 🏉🏉🏉🏉🏉
 
 <!--
 **its-dgreen/its-dgreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
