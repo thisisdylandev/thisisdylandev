@@ -3,17 +3,15 @@ Hey there, I'm Dylan. I'm a web developer specializing in ruby on rails, javascr
 
 Welcome to one of my various corners of the internet, I'm working on it. 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisdylandev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-🔭 I’m currently working on doing fun things with [Firebase](https://firebase.google.com/)
+🔭 I’m currently working on doing fun things with Rails and [Hotwire](https://hotwired.dev/)
 
 🌱 I’m currently learning advanced ruby and javascript techniques
 
+💬 Ask me about React, MongoDB, and Ruby on Rails!
+
 😄 Pronouns: He/Him
 
-⚡ Fun fact: 🏉🏉🏉🏉🏉
+⚡ Fun fact: Amateur Rugger 🏉
 
 <!--
 **its-dgreen/its-dgreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
