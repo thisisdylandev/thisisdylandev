@@ -1,17 +1,15 @@
 ### Hey there 👋
-Hey there, I'm Dylan. I'm a web developer specializing in ruby on rails, javascript, and security.
+Hey there, I'm Dylan. I'm a web developer specializing in ruby on rails.
 
 Welcome to one of my various corners of the internet, I'm working on it. 
 
 🔭 I’m currently working on doing fun things with Rails and [Hotwire](https://hotwired.dev/)
 
-🌱 I’m currently learning advanced ruby and javascript techniques
+🌱 I’m currently learning advanced ruby techniques
 
-💬 Ask me about React, MongoDB, and Ruby on Rails!
+💬 Ask me about Ruby, Rails, and security!
 
 😄 Pronouns: He/Him
-
-⚡ Fun fact: Amateur Rugger 🏉
 
 <!--
 **its-dgreen/its-dgreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
