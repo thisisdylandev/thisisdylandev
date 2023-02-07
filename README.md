@@ -1,11 +1,11 @@
 ### Hey there 👋
-Hey there, I'm Dylan. I'm a web developer specializing in ruby on rails.
+Hey there, I'm Dylan. I'm a web developer specializing in ruby on rails and javascript.
 
 Welcome to one of my various corners of the internet, I'm working on it. 
 
-🔭 I’m currently working on doing fun things with Rails and [Hotwire](https://hotwired.dev/)
+🔭 I’m currently working on doing fun things with Rails and React
 
-🌱 I’m currently learning advanced ruby techniques
+🌱 I’m currently learning all about data engineering!
 
 💬 Ask me about Ruby, Rails, and security!
 
