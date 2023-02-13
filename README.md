@@ -5,7 +5,7 @@ Welcome to one of my various corners of the internet, I'm working on it.
 
 🔭 I’m currently working on doing fun things with Rails and React
 
-🌱 I’m currently learning all about typescript!
+🌱 I’m currently learning all about typescript and go!
 
 💬 Ask me about Ruby, Rails, and security!
 
