@@ -3,11 +3,11 @@ Hey there, I'm Dylan. I'm a web developer specializing in ruby on rails and java
 
 Welcome to one of my various corners of the internet, I'm working on it. 
 
-🔭 I’m currently working on doing fun things with Rails and React
+🔭 I’m currently working on doing fun things with JavaScript and TypeScript
 
-🌱 I’m currently learning all about SalesForce!
+🌱 I’m currently learning all about Angular!
 
-💬 Ask me about Ruby, Rails, and security!
+💬 Ask me about JavaScript, and security!
 
 😄 Pronouns: He/Him
 
