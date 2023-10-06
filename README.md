@@ -5,9 +5,9 @@ Welcome to one of my various corners of the internet, I'm working on it.
 
 🔭 I’m currently working on doing fun things with JavaScript and TypeScript
 
-🌱 I’m currently learning all about Angular!
+🌱 I’m currently learning all about Hotwire!
 
-💬 Ask me about JavaScript, and security!
+💬 Ask me about JavaScript, Rails, and security!
 
 😄 Pronouns: He/Him
 
